@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi guys👋, I'm Eman ⭐</h1>
-<h3 align="center"> 👩🏻‍💻 Future full-stack Engineer </h3>
+<h3 align="center"> 👩🏻‍💻 Future full-Stack Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emanzhd&label=Profile%20views&color=0e75b6&style=flat" alt="emanzhd" /> </p>
 
