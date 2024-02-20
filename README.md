@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emanzhd&label=Profile%20views&color=0e75b6&style=flat" alt="emanzhd" /> </p>
 
-- 🌱 I’m currently a Software Engineering Student @ALX_africa
+- 🌱 I’m currently a SE Student @ALX_africa
 
 - 📫 to reach me => **zahidimane1@gmail.com**
 
