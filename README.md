@@ -10,5 +10,5 @@
 
 <p><img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=emanzhd&show_icons=true&locale=en&layout=compact" alt="emanzhd" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emanzhd&show_icons=true&locale=en" alt="emanzhd" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emanzhd&show_icons=true&locale=en" alt="emanzhd"
 </p>
